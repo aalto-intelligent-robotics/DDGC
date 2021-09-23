@@ -1,0 +1,8 @@
+checkpoints/
+*.swp
+__pycache__
+*/__pycache__
+data/training_data
+data/test_data
+.vscode
+results/*
