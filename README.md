@@ -37,10 +37,6 @@ To visualize the training progress do
 tensorboard --logdir checkpoints/ --samples_per_plugin=images=100
 ```
 
-## Simulation experiments
-
-This will be released soon.
-
 ## Headless servers
 
 If you want to run the code on a headless servers but have problems try the following:
