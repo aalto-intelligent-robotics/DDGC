@@ -1,4 +1,4 @@
-# Multi-FinGAN
+# DDGC
 
 This repository includes code used in our work on [DDGC: Generative Deep Dexterous Grasping in Clutter](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9483683). More specifically, it includes code to train a DDGC model.
 
